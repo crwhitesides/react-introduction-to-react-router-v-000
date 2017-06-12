@@ -68,7 +68,7 @@ So this all sounds great, but what are the limitations?
 
  * Analytics
 
-  Analytic tools normally track page views, but a SPA doesn't have pages in the traditional sense, so this makes it harder for Analytical tools to track page views. We will need add extra scripts to handle this limitation.
+  Analytic tools normally track page views, but a SPA doesn't have pages in the traditional sense, so this makes it harder for Analytical tools to track page views. We will need to add extra scripts to handle this limitation.
 
   * They are much harder to design.
 
