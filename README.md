@@ -76,7 +76,7 @@ So this all sounds great, but what are the limitations?
 
 ### Push it, Push it
 
-When we make server calls we are making a __GET__ request to a URL and that new URL is in our address bar. If we have visited a few different URL's though that information is saved in browser history.
+When we make server calls we are making a __GET__ request to a URL and that new URL is in our address bar. If we have visited a few different URL's, though, that information is saved in browser history.
 
 Go to the JavaScript console in Chrome and type
 
