@@ -45,7 +45,7 @@ This brings with it some great benefits too. The major one is *Speed*. Since we 
 
 ### Single Page App (SPA)
 
-In __React__ we will likely be building a __SPA__. This means we wont require multiple pages being loaded, just the original __GET__ request with our initial HTML, CSS and JS files from the Server. This requires us to figure out how to make the experience of Client-Side routing work to our advantage.
+In __React__ we will likely be building a __SPA__. This means we won't require multiple pages being loaded, just the original __GET__ request with our initial HTML, CSS and JS files from the Server. This requires us to figure out how to make the experience of Client-Side routing work to our advantage.
 
 There are a couple of things that we need to take into consideration:
 
@@ -55,7 +55,7 @@ There are a couple of things that we need to take into consideration:
 
 * We want a user to be able to input a URL into the address bar and navigate to the view they need to see.
 
-This was easy with server side rendering most MVC frameworks come with this for free, because we just defined the routes, added the actions needed to the controller and then made a call to the model to get the info we desired.
+This is easy with server-side rendering because most MVC frameworks come with this for free. All we have to do is define the routes, add the necessary actions to the controller, and then make a call to the model to get the info we desire.
 
 
 ### Limits of Client-Side routing
